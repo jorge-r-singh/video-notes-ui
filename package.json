@@ -8,6 +8,9 @@
     "vercel-build": "next build"
   },
   "dependencies": {
+  "tailwindcss": "^3.x.x",
+  "postcss": "^8.x.x",
+  "autoprefixer": "^10.x.x"
     "next": "14.2.3",
     "react": "18.2.0",
     "react-dom": "18.2.0"
